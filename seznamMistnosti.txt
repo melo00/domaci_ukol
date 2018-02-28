@@ -3,3 +3,4 @@ obyvak
 loznice
 kuchyni
 koupelna
+balkon
